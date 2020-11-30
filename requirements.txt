@@ -1,0 +1,4 @@
+1 - Keras: pip install keras
+2 - Tensorflow: pip install tensorflow
+3 - Cv2: pip install opencv-python
+4 - Numpy: pip install numpy 
